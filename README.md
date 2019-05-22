@@ -5,4 +5,3 @@ donwloaded at [ColorLib - Restaurant](https://colorlib.com/wp/template/restauran
 
 Done:
 - Modified Menu
-- Change logo
